@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIWedfy", "APIWedfy.csproj", "{F4416BCF-1AF2-4AD5-A0F0-2274A93FBB9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4416BCF-1AF2-4AD5-A0F0-2274A93FBB9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4416BCF-1AF2-4AD5-A0F0-2274A93FBB9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4416BCF-1AF2-4AD5-A0F0-2274A93FBB9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4416BCF-1AF2-4AD5-A0F0-2274A93FBB9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {894F5797-52B1-4E8E-B8BA-A884D84563CE}
+	EndGlobalSection
+EndGlobal
